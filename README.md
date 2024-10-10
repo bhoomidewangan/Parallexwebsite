@@ -1,0 +1,1 @@
+This website showcases a sleek and engaging parallax scrolling effect, where background images move at a slower pace than the foreground content, creating a visually dynamic and immersive user experience. Developed with HTML and CSS.
